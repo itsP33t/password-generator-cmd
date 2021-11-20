@@ -1,4 +1,5 @@
-// dsc.gg/p33t
+// p33t.net/discord
+
 
 //starting stuff
 const pw = require('generate-password');
